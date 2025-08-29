@@ -1,0 +1,9 @@
+public class FavoriteSong {
+
+    public static void main(String[] args) {
+        System.out.println("I want a perfect body");
+        System.out.println("You're just like an angel");
+        System.out.println("You float like a feather");
+        System.out.println("In a beautiful world");
+    }
+  }

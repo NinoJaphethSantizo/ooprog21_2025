@@ -1,0 +1,16 @@
+public class Comments {
+
+    public static void main(String[] args) {
+        // This is a single-line comment
+        System.out.println("Demonstrating different types of comments in Java!");
+
+        /*
+         * This is a multi-line comment.
+         * It can be used to explain code in detail
+         * over multiple lines.
+         */
+        int a = 10, b = 20;
+        int sum = a + b;
+        System.out.println("The sum of a and b is: " + sum);
+    }
+}
