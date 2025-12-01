@@ -1,8 +1,4 @@
-// Application lists valid shipping codes
-// A, C, T, or H
-// then prompts user for a code
-// Application accepts a shipping code
-// and determines if it is valid
+
 
 import java.util.*;
 
@@ -45,3 +41,4 @@ public class DebugEight1 {
             System.out.println("Sorry code not found");
     }
 }
+
